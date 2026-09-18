@@ -1,6 +1,6 @@
 # loggers-implementation
 
-This repository contains projects for logger implementation in Java Maven Projects in different manner.
+This project is for logger implementation using log4j.properties file in src/main/resources folder.
 
 
 
